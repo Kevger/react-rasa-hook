@@ -1,0 +1,27 @@
+{
+  "name": "react-rasa-hook",
+  "version": "1.0.0",
+  "description": "A react hook for RASA frontend integration.",
+  "main": "./dist/main.js",
+  "types": "./dist/main.d.ts",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "keywords": [
+    "Rasa",
+    "React"
+  ],
+  "author": "germanke https://github.com/Kevger",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/socket.io-client": "^3.0.0",
+    "@types/react": "^18.0.25",
+    "@types/uuid": "^8.3.4",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "socket.io-client": "^4.5.3",
+    "uuid": "^9.0.0"
+  }
+}
