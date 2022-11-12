@@ -1,6 +1,9 @@
 # react-rasa-hook
 A simple react hook for the RASA conversational user interface framework.
 
+[Github](https://github.com/Kevger/react-rasa-hook)
+[NPM](https://www.npmjs.com/package/react-rasa-hook)
+
 ### 👷 How to install
 
 ```
